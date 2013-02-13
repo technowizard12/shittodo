@@ -1,0 +1,9 @@
+lib/libffi.dll.a
+lib/libffi-3.0.6/include/ffi.h
+lib/libffi-3.0.6/include/ffitarget.h
+share/man/man3/ffi.3
+share/man/man3/ffi_call.3
+share/man/man3/ffi_prep_cif.3
+src/tml/make/libffi_3.0.6-1_win32.sh
+src/tml/make/libffi_3.0.6-1_win32.log
+manifest/libffi-dev_3.0.6-1_win32.mft
