@@ -1,3 +1,0 @@
-Name: Ruby/GTK2
-Description: Ruby bindings for GTK+ Graphical UI Library (x11 target)
-Version: 1.2.1

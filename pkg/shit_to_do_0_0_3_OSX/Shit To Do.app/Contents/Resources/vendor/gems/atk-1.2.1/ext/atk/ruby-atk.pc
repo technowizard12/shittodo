@@ -1,3 +1,0 @@
-Name: Ruby/ATK
-Description: Ruby bindings for Accessibility Toolkit
-Version: 1.2.1

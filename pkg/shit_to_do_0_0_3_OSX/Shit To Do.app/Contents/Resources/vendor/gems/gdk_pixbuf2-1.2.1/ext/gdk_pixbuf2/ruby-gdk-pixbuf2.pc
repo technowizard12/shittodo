@@ -1,3 +1,0 @@
-Name: Ruby/GdkPixbuf2
-Description: Ruby bindings for Image loading and scaling
-Version: 1.2.1
